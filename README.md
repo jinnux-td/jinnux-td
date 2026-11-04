@@ -1,4 +1,4 @@
-<a href="https://jinnux.com"><img src="https://jinnux.com/og.png" width="100%" alt="Nguyen Tan Dat. I am a Senior Software Engineer, Ho Chi Minh City."></a>
+<a href="https://jinnux.com"><img src="banner.png" width="100%" alt="Nguyen Tan Dat. I am a Senior Software Engineer, Ho Chi Minh City."></a>
 
 <p align="center">
   <a href="https://jinnux.com"><img alt="Website: jinnux.com" src="https://img.shields.io/badge/jinnux.com-f3b76a?style=for-the-badge"></a>
@@ -24,6 +24,8 @@ The code is private, so here is what it did.
 | **−75%** | monthly translation cost, after replacing third-party software with an in-house platform | Nexon |
 
 ## Things I make after hours
+
+<a href="https://peepcraft.jinnux.com"><img src="peepcraft.png" width="100%" alt="Six hand-drawn characters on coloured cards, each made with PeepCraft."></a>
 
 **[PeepCraft](https://peepcraft.jinnux.com)** is a character creator: build a person from hair, faces, bodies and poses, set them in a scene, and export it. Use it in the browser, from a terminal, or let an AI agent draw through its MCP server. The picture at the top was drawn with it.
 
