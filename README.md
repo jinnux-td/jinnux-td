@@ -27,7 +27,7 @@ The code is private, so here is what it did.
 
 <a href="https://peepcraft.jinnux.com"><img src="peepcraft.png" width="100%" alt="Six hand-drawn characters on coloured cards, each made with PeepCraft."></a>
 
-**[PeepCraft](https://peepcraft.jinnux.com)** is a character creator: build a person from hair, faces, bodies and poses, set them in a scene, and export it. Use it in the browser, from a terminal, or let an AI agent draw through its MCP server. The picture at the top was drawn with it.
+**[PeepCraft](https://peepcraft.jinnux.com)** is a character creator: build a person from hair, faces, bodies and poses, set them in a scene, and export it. Use it in the browser, from a terminal, or let an AI agent draw through its MCP server. Every picture here was drawn with it.
 
 [Open PeepCraft](https://peepcraft.jinnux.com) · [Support it on Ko-fi](https://ko-fi.com/jinnux)
 
